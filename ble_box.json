@@ -9,7 +9,7 @@
     ]
   },
   "ota":{
-    "ver":"0.0.3",
+    "ver":"3.0.7",
     "url":"https://raw.githubusercontent.com/pnt325/open-app-config/main/ble-box-esp32-v3.0.7.bin",
   }
 }
