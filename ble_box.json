@@ -11,5 +11,9 @@
   "ota":{
     "ver":"3.1.0",
     "url":"https://raw.githubusercontent.com/pnt325/open-app-config/main/ble-box-esp32-v3.1.0.bin"
+  },
+  "ota2":{
+    "ver": "3.2.0",
+    "url": "https://raw.githubusercontent.com/pnt325/open-app-config/main/ble-box-esp32-v3.2.0.bin"
   }
 }
