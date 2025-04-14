@@ -1,5 +1,14 @@
 {
-    "ver": "1.2.3",
-    "sn": "Display-123456789",
-    "url": "https://raw.githubusercontent.com/pnt325/open-app-config/main/bossmarine/display.ino.bin"
+    "controller":{
+        "ver": "0.0.2",
+        "url": ""
+    },
+    "utility":{
+        "ver": "0.0.2",
+        "url": ""
+    }, 
+    "display": {
+        "ver": "0.0.2",
+        "url": ""
+    }
 }
