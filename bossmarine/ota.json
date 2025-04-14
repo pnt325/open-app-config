@@ -1,14 +1,1 @@
-{
-    "controller":{
-        "ver": "0.0.2",
-        "url": "https://raw.githubusercontent.com/pnt325/open-app-config/refs/heads/main/bossmarine/controller/firmware.bin"
-    },
-    "utility":{
-        "ver": "0.0.2",
-        "url": "https://raw.githubusercontent.com/pnt325/open-app-config/refs/heads/main/bossmarine/utility/firmware.bin"
-    }, 
-    "display": {
-        "ver": "0.0.2",
-        "url": "https://raw.githubusercontent.com/pnt325/open-app-config/refs/heads/main/bossmarine/display/firmware.bin"
-    }
-}
+{"ctrl":{"ver":"0.0.2","hw":"rev-2","url":"https://raw.githubusercontent.com/pnt325/open-app-config/refs/heads/main/bossmarine/controller/firmware.bin"},"uti":{"ver":"0.0.2","hw":"rev-1","url":"https://raw.githubusercontent.com/pnt325/open-app-config/refs/heads/main/bossmarine/utility/firmware.bin"},"dis":{"ver":"0.0.2","hw":"rev-1","url":"https://raw.githubusercontent.com/pnt325/open-app-config/refs/heads/main/bossmarine/display/firmware.bin"}}
